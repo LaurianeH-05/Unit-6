@@ -2,7 +2,7 @@
 
 Submitted by: **Lauriane Houndjahoue**
 
-This web app: **insert description**
+This web app: A financial literacy web app that teaches currency exchange concepts through interactive data visualization. Features real-time exchange rates, historical trend charts (line/bar graphs), currency comparison tools, and detailed currency profiles. Built with React for dynamic updates and React Router for seamless navigation.
 
 Time spent: **8** hours spent in total
 
